@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[,,,function(e,t,n){e.exports=n(4)},function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),l=n(2);n.n(l).a.render(r.a.createElement(function(){return r.a.createElement("div",null,r.a.createElement("label",{className:"label",htmlFor:"name"},"Enter name:"),r.a.createElement("input",{id:"name",type:"text"}),r.a.createElement("button",{style:{backgroundColor:"blue",color:"white"}},"Submit"))},null),document.querySelector("#root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.299051fe.chunk.js.map
